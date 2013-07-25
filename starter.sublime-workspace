@@ -1,0 +1,1167 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"get_stye",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"post",
+				"post_ID"
+			],
+			[
+				"about",
+				"about_cf"
+			],
+			[
+				"THEME",
+				"THEME_LIBRARY"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wp_get_att",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"parent",
+				"parent_page"
+			],
+			[
+				"paths",
+				"paths_count"
+			],
+			[
+				"pa",
+				"paths_count"
+			],
+			[
+				"mrgin",
+				"margin-bottom"
+			],
+			[
+				"ven",
+				"venue_logo_id"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"perfo",
+				"pastPerformances"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fea",
+				"featuredPerformance"
+			],
+			[
+				"date",
+				"dateFlag"
+			],
+			[
+				"posts",
+				"posts_per_page"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"small",
+				"small_sponsor_logo"
+			],
+			[
+				"spno",
+				"sponsor_data"
+			],
+			[
+				"cas",
+				"cast_photo_id"
+			],
+			[
+				"side",
+				"sidebar_lower_1_link"
+			],
+			[
+				"sidebar",
+				"sidebar_upper_link"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"off",
+				"offset_amount"
+			],
+			[
+				"wp_get_attach",
+				"wp_get_attachment_url"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"light",
+				"lightBlue"
+			],
+			[
+				"style",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"do",
+				"do_not_duplicate"
+			],
+			[
+				"wp_quer",
+				"wp_reset_query"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"conats",
+				"contacts_data"
+			],
+			[
+				"video",
+				"video_data"
+			],
+			[
+				"audio",
+				"audio_data"
+			],
+			[
+				"audi",
+				"audio_data"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"soc",
+				"social_data"
+			],
+			[
+				"res",
+				"resume_data"
+			],
+			[
+				"galle",
+				"gallery_data"
+			],
+			[
+				"voice",
+				"voice_type_data"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"dark",
+				"darkGrey"
+			],
+			[
+				"get_sty",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"feat",
+				"feature_photo"
+			],
+			[
+				"wp_rese",
+				"wp_reset_query  (function)"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"base",
+				"baseFontFamily"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"ligh",
+				"lightGrey"
+			],
+			[
+				"filer",
+				"filters"
+			],
+			[
+				"filt",
+				"filters"
+			],
+			[
+				"full",
+				"full_bio"
+			],
+			[
+				"get_templat",
+				"get_template_part"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"get_ste",
+				"get_stylesheet_directory"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"Bundle",
+				"Bundle	Laravel: Bundle::parse()"
+			],
+			[
+				"Autoloa",
+				"Autoloader	Laravel: Autoloader::namespaces()"
+			],
+			[
+				"Input",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"vali",
+				"validation"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"Redi",
+				"Redirect	Laravel: Redirect::to_route()"
+			],
+			[
+				"View",
+				"View	Laravel: View::make()"
+			],
+			[
+				"Route",
+				"Route	Laravel: Route::get()"
+			],
+			[
+				"Sc",
+				"Schema	Laravel: Schema::drop()"
+			],
+			[
+				"Sche",
+				"Schema	Laravel: Schema::create()"
+			],
+			[
+				"the",
+				"the_parents"
+			],
+			[
+				"my_pa",
+				"my_parent_id"
+			],
+			[
+				"sele",
+				"selected_id_slug"
+			],
+			[
+				"sle",
+				"selected_id_slug"
+			],
+			[
+				"the_parent",
+				"the_parent_parent"
+			],
+			[
+				"check",
+				"check_for_parent"
+			],
+			[
+				"this_pare",
+				"this_parent_slug"
+			],
+			[
+				"se",
+				"selected_id"
+			],
+			[
+				"sel",
+				"selected_slug"
+			],
+			[
+				"get_pare",
+				"get_parent_slug"
+			],
+			[
+				"pare",
+				"parent_slug"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"load",
+				"load_helper	CI - Load Helper File"
+			],
+			[
+				"M",
+				"Main_Nav_Query_Results"
+			],
+			[
+				"qs",
+				"qs_val"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pages",
+				"pages_records"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"curr",
+				"current_slug"
+			],
+			[
+				"loa",
+				"load_view	CI - Load View"
+			],
+			[
+				"form",
+				"form_close	CI - Form Helper - Close"
+			],
+			[
+				"en",
+				"enable_security_features"
+			],
+			[
+				"script",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Processing/Processing.sublime-build",
+	"command_palette":
+	{
+		"height": 206.0,
+		"selected_items":
+		[
+			[
+				"moni",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"monit",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"mo",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"mont",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"mon",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"br",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"sft",
+				"SFTP: Show Panel"
+			],
+			[
+				"sfto",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"ci base",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"CI",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"fec",
+				"Fetch"
+			],
+			[
+				"fe",
+				"Fetch"
+			],
+			[
+				"fect",
+				"Fetch: Manage remote files"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 486.0
+	},
+	"console":
+	{
+		"height": 507.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/REG/Documents/Work/Personal/sketch/bdc_sketch_3/bdc_sketch_3.pde",
+		"/Users/REG/Documents/Work/OutsidetheBox Church/web/wordpress/wp-content/themes/embark/style.css",
+		"/Users/REG/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/REG/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/REG/Documents/Work/OutsidetheBox Church/web/wordpress/wp-content/themes/embark/images/logo.png",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/library/fitvid/jquery.fitvids.js",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/front-page.php",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/index.php",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/includes/cpt/work.php",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/includes/cpt/video.php",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/header.php",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/includes/cpt/pages.php",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/footer.php",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/sftp-config.json",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/less/style.less",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/style.css",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/less/",
+		"/Users/REG/Documents/Work/Amber Ambrose/wp info/themes/amberambrose/less",
+		"/Users/REG/Documents/Work/OutsidetheBox Church/web/wordpress/wp-content/themes/embark/config.rb",
+		"/Users/REG/Documents/Work/OutsidetheBox Church/web/wordpress/wp-content/themes/embark/includes/cpt/",
+		"/Users/REG/Documents/Work/OutsidetheBox Church/web/wordpress/wp-content/themes/embark/includes/cpt",
+		"/Users/REG/Documents/Work/OutsidetheBox Church/web/wordpress/wp-content/themes/embark/images",
+		"/Users/REG/Documents/Work/OutsidetheBox Church/web/wordpress/wp-content/themes/embark/normalize.css",
+		"/Users/REG/Documents/Work/OutsidetheBox Church/web/wordpress/wp-content/themes/embark/sass/app.scss",
+		"/Users/REG/Documents/Work/Personal/project buffy/application/migrations/2013_04_01_124736_add_template_field_to_pages_table.php",
+		"/Users/REG/Documents/Work/Spine/Sono Stream/themes/brix/css/theme-style.css",
+		"/Users/REG/Documents/Work/Spine/Sono Stream/themes/brix/images/bg-date-flag.jpg",
+		"/Users/REG/Documents/Work/Spine/Sono Stream/themes/brix/js/prettyPhoto/js/jquery-1.3.2.min.js",
+		"/Users/REG/Documents/Work/Spine/Sono Stream/themes/brix/style.css",
+		"/Users/REG/Documents/Work/Spine/Sono Stream/themes/brix/includes/cuztom-helper/assets/css/style.css",
+		"/Users/REG/Documents/Work/Spine/Sono Stream/themes/brix/sftp-config.json",
+		"/Users/REG/Documents/Work/Spine/Sono Stream/themes/brix/includes/cuztom-helper/classes/fields/multi_select.class.php",
+		"/Users/REG/Documents/Work/Spine/Sono Stream/themes/brix/includes/cuztom-helper/classes/fields/image.class.php",
+		"/Users/REG/test.html",
+		"/Users/REG/Library/Caches/Cleanup At Startup/Transmit/CE4923FB-49AA-41A0-A24D-1FF3275053FE/test.html",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/images/home-overlay.png",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/images/logo-sonostream.png",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/images/feature-overlay.png",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/includes/cpt/type.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/functions.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/includes/cpt/artists.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/single-artists.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/page-profiles.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/includes/cpt/pages.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/sono/sass/_variables.scss",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/includes/cpt/atrist_type.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/css/FortAwesome/docs/assets/less/variables.less",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/archives.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/header.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/header-secondary.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/header-profile.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/index.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/single.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/front-page.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/style.css",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/page-pr.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/includes/cpt/posts.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/page.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/includes/cpt/pr.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/sftp-config.json",
+		"/var/folders/82/8gc37q4j5ws1vz560j_5fj2w0000gn/T/sublime-sftp-browse-1361213972/mapped/public_html/clients/spine/sono_artists/wp-content/themes/sonoartists/page-profiles.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/css/soundcloud/sc-player-minimal/standards.css",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/css/soundcloud/sc-player-minimal/structure.css",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/header-tertiary.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/sono/sass/style.scss",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/includes/cpt/test.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/includes/cpt/artist.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sonoartists/includes/cpt/events.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/page.php",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sono/sass/style.scss",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/css/FortAwesome/docs/assets/less/twbs-222/tests/navbar-fixed-top.html",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/index.html",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/artists.html",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/index-alt.html",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/sono/sass/_variables.scss",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/css/soundcloud/sc-player-red.css",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/js/scripts.js",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/css/soundcloud/sc-player-minimal/structure.css",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/artist-profile.html",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/css/soundcloud/sc-player-standard.css",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/css/soundcloud/sc-player-minimal.css",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/profiles.html",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/sono/sass/grid.scss",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/sonos/sass/style.scss",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/sftp-config.json",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/sono/config.rb",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/html/sono/sass/style.scss",
+		"/Users/REG/Documents/Work/Spine/Sono Artists/web/theme/style.css",
+		"/Users/REG/Documents/Work/BrightBox/syzygy/web/themes/synzigy/functions.php",
+		"/Users/REG/Documents/Work/BrightBox/syzygy/web/themes/synzigy/banner/themes/default/arrows.png",
+		"/Users/REG/Documents/Work/BrightBox/syzygy/web/sftp-config.json",
+		"/Users/REG/Documents/Work/BrightBox/syzygy/web/test.php",
+		"/Users/REG/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/syzygy",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/public/scripts.js",
+		"/Users/REG/Documents/Work/Personal/project buffy/application/config/auth.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/views/login/login.blade.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/views/pages/index.blade.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/routes.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/controllers/media.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/views/dash/dash.blade.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/views/layouts/default.blade.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/views/media/index.blade.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/application/migrations/2013_01_21_225914_create_media_table.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/views/media/index.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/controllers/pages.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/models/media.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/controllers/media.phop",
+		"/Users/REG/Documents/Work/Personal/project buffy/public/lib/foundation/sass/app.scss",
+		"/Users/REG/Documents/Work/Personal/project buffy/public/lib/foundation/sass/_settings.scss",
+		"/Users/REG/Documents/Work/Personal/project buffy/application/migrations/2013_01_20_133935_create_user_table.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/application/migrations/2013_01_21_135631_create_users_table.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/application/migrations/.gitignore",
+		"/Users/REG/Documents/Work/Personal/project buffy/application/migrations/2013_01_20_134630_insert_a_user.php",
+		"/Users/REG/Desktop/fridge.txt",
+		"/Users/REG/Documents/Work/Personal/project buffy/.gitignore",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/views/posts/edit.blade.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/controllers/base.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/public/css/config.rb",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/controllers/posts.php",
+		"/Users/REG/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/REG/Documents/Work/Personal/project buffy/public/lib/buffy/sass/app.scss",
+		"/Users/REG/Documents/Work/Personal/project buffy/application/bundles.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/start.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/start.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/views/pages/edit.blade.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/bundles/admin/views/pages/view.blade.php",
+		"/Users/REG/Documents/Work/Personal/project buffy/public/bundles/admin/library/bootstrap/css/bootstrap-responsive.css",
+		"/Users/REG/Documents/Work/Personal/project buffy/application/controllers/base.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/REG/Documents/Work/Personal/Master Control/application"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ss_",
+			"sstheme",
+			"sampletheme",
+			"sample_",
+			"00",
+			"h2",
+			"../images",
+			"..",
+			"..images",
+			"h3",
+			"work",
+			"Grid",
+			"/* The Grid ---------------------- */",
+			".row {",
+			"row",
+			".row {",
+			"1170",
+			"contentBod",
+			"venue",
+			"cas",
+			"italic",
+			"perfblur",
+			"perfblu",
+			"performance",
+			"timertxt",
+			"eventt",
+			"bold",
+			".pr",
+			"jquery",
+			"menu-ite",
+			"nav.me",
+			"fancy",
+			"jquer",
+			"pretty",
+			"404",
+			"featuretext",
+			"box",
+			"news",
+			"h3",
+			"orange",
+			"108",
+			".section",
+			"http://placekitten.com/g/220/114",
+			"endca",
+			"baritone",
+			"/images/",
+			"http://clients.richardegil.com/spine/sono_artists/",
+			"/images",
+			"(images",
+			".filler",
+			"<span class=\"btn-arrow\"></spam>",
+			"<span class=\"btn-arrow green\"></spam>",
+			"ul",
+			"263",
+			"p {",
+			"Difference",
+			"dro",
+			"d",
+			"li {",
+			"nivo-directionNav",
+			"nivo",
+			"page",
+			"container('addy')->add",
+			"admin",
+			"The filetype you are attempting to upload is not allowed.",
+			"acceptFileTypes",
+			"The filetype you are attempting to upload is not allowed.",
+			"The filetype you are attempting to upload is not allowed.\n\nThe filetype you are attempting to upload is not allowed.",
+			"jpg",
+			"label",
+			"link",
+			"[$obj->id]",
+			";\n",
+			"migration",
+			"migrations",
+			"helper",
+			"helpers",
+			"side",
+			"enable_security_features",
+			"enable_ld_plans",
+			"disable_call_features",
+			"phn_ccb",
+			"phn_ccb\n",
+			"phn_plan",
+			"dtv_package_dtv\n",
+			"phn_ccb",
+			"category",
+			"<hr />",
+			"<h2",
+			"<div class=\"newsy\">",
+			"</div>\n        </div>",
+			"          </div>\n        </div>",
+			"<div class=\"news-content\">",
+			"&nbsp </div>",
+			"/> </div>",
+			"<div class=\"news-image\">",
+			"<div class=\"newsdiv\">",
+			"border",
+			".jpg",
+			"playlist",
+			"pause"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"brix_",
+			"brix",
+			"sstheme",
+			"ss_",
+			"images",
+			"http://placehold.it/220x114",
+			"http://clients.richardegil.com/spine/sono_artists/wp-content/themes/sonoartists/images/",
+			"/",
+			"http://clients.richardegil.com/spine/sono_artists/images",
+			"/images",
+			"<span class=\"btn\"><i class=\"icon-angle-right\"></i></span>",
+			"add",
+			"(:bundle)",
+			"title",
+			"slug",
+			"[$page['page_id']]",
+			"</div><hr />",
+			"</div><div class=\"newsycontent\"><h2",
+			"</div><h2",
+			"<div class=\"newsy\"><div class=\"newsimg\">",
+			"",
+			"&nbsp",
+			"",
+			".png"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"application/config/routes.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"front",
+				"front-page.php"
+			],
+			[
+				"style",
+				"sass/style.scss"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"perf",
+				"includes/cpt/performances.php"
+			],
+			[
+				"sin",
+				"single-performance.php"
+			],
+			[
+				"them",
+				"css/theme-style.css"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"fron",
+				"front-page.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"var",
+				"css/FortAwesome/docs/assets/less/variables.less"
+			],
+			[
+				"sf",
+				"sftp-config.json"
+			],
+			[
+				"scr",
+				"js/scripts.js"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"_var",
+				"sono/sass/_variables.scss"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"color",
+				"css/soundcloud/sc-player-minimal/colors.css"
+			],
+			[
+				"str",
+				"css/soundcloud/sc-player-minimal/structure.css"
+			],
+			[
+				"sou",
+				"css/soundcloud/sc-player-minimal.css"
+			],
+			[
+				"art",
+				"artist-profile.html"
+			],
+			[
+				"med",
+				"bundles/admin/controllers/media.php"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"setting",
+				"public/lib/foundation/sass/_settings.scss"
+			],
+			[
+				"app.s",
+				"public/lib/foundation/sass/app.scss"
+			],
+			[
+				"defa",
+				"bundles/admin/views/layouts/default.blade.php"
+			],
+			[
+				"pages",
+				"bundles/admin/controllers/pages.php"
+			],
+			[
+				"index",
+				"bundles/admin/views/pages/index.blade.php"
+			],
+			[
+				"edit",
+				"bundles/admin/views/pages/edit.blade.php"
+			],
+			[
+				"bundl",
+				"application/bundles.php"
+			],
+			[
+				"rout",
+				"application/routes.php"
+			],
+			[
+				"app",
+				"application/config/application.php"
+			],
+			[
+				"my",
+				"application/core/MY_MODEL.php"
+			],
+			[
+				"bu",
+				"application/helpers/buildmenu_helper.php"
+			],
+			[
+				"dash",
+				"application/controllers/admin/dashboard.php"
+			],
+			[
+				"men",
+				"application/helpers/menu_helper.php"
+			],
+			[
+				"views/da",
+				"application/views/dashboard.php"
+			],
+			[
+				"admin/da",
+				"application/controllers/admin/dashboard.php"
+			],
+			[
+				"migra",
+				"application/config/migration.php"
+			],
+			[
+				"confi",
+				"application/config/config.php"
+			],
+			[
+				"views/das",
+				"application/views/dashboard.php"
+			],
+			[
+				"views/includes/header",
+				"application/views/includes/header.php"
+			],
+			[
+				"date",
+				"assets/bootstrap/css/datepicker.css"
+			],
+			[
+				"boots",
+				"assets/bootstrap/css/bootstrap.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 140.0,
+	"status_bar_visible": true
+}
